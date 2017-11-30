@@ -1,0 +1,573 @@
+1511499074854	geckodriver	INFO	geckodriver 0.19.1
+1511499074863	geckodriver	INFO	Listening on 127.0.0.1:54429
+1511499077022	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\yaya\\AppData\\Local\\Temp\\rust_mozprofile.Mo1EIhXFazp0"
+1511499077358	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511499078371	Marionette	INFO	Enabled via --marionette
+[Child 10868] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10868] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511499083792	Marionette	INFO	Listening on port 54435
+1511499084355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511499084490	Marionette	DEBUG	Register listener.js for window 6442450945
+1511499084530	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511499084627	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511499084627	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511499085200	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511499172041	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450980"
+1511499172041	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450982"
+1511499172041	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450984"
+1511499193285	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/"
+1511499198264	Marionette	INFO	New connections will no longer be accepted
+1511499718075	geckodriver	INFO	geckodriver 0.19.1
+1511499718083	geckodriver	INFO	Listening on 127.0.0.1:54693
+1511499720163	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\yaya\\AppData\\Local\\Temp\\rust_mozprofile.TR1DkmW6DrX5"
+1511499720411	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511499721144	Marionette	INFO	Enabled via --marionette
+1511499724790	Marionette	INFO	Listening on port 54699
+1511499725394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511499725449	Marionette	DEBUG	Register listener.js for window 6442450945
+1511499725474	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511499725861	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511499725861	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511499727041	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/"
+1511499729281	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450980"
+1511499729284	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450982"
+1511499729286	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450984"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511499732240	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/"
+[Parent 6568] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10748] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10748] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9192] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9192] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511499821342	Marionette	INFO	Enabled via --marionette
+1511499824752	Marionette	INFO	Listening on port 54873
+1511499825578	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511499825638	Marionette	DEBUG	Register listener.js for window 4294967297
+1511499825664	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511499825733	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511499825734	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511499826167	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/"
+1511499828694	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1511499828695	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1511499828696	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511499831937	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/"
+[Parent 10896] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5268] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5268] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6368] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511499956969	geckodriver	INFO	geckodriver 0.19.1
+1511499956977	geckodriver	INFO	Listening on 127.0.0.1:55021
+1511499959083	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\yaya\\AppData\\Local\\Temp\\rust_mozprofile.2tPmQWHCL0sZ"
+1511499959327	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511499960084	Marionette	INFO	Enabled via --marionette
+[Child 11804] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11804] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511499963940	Marionette	INFO	Listening on port 55027
+1511499964315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511499964360	Marionette	DEBUG	Register listener.js for window 6442450945
+1511499964386	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511499964513	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511499964513	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511499965126	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511499972873	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511499975578	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450951"
+1511499975578	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450958"
+1511499975579	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450949"
+1511499975579	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450961"
+1511499975579	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450952"
+1511499975580	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450964"
+1511499975580	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450955"
+1511499976521	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/pic"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511499987357	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442451006"
+1511499987735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442451010"
+1511500080949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450972"
+1511500080949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442451008"
+1511500080950	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450976"
+1511500080950	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450994"
+1511500080950	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450970"
+1511500080951	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450993"
+1511500080951	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450996"
+1511500080952	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450991"
+1511500080952	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450981"
+1511500080952	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450974"
+1511500080953	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442451001"
+1511500080954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450984"
+1511500080954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450977"
+1511500080955	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442451014"
+1511500080955	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442451015"
+1511500080955	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442451016"
+1511500080955	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442451012"
+1511500080956	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442451002"
+1511500080956	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450988"
+1511500080956	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450986"
+1511500080956	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450945"
+[Child 8416] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511500084980	geckodriver	INFO	geckodriver 0.19.1
+1511500084988	geckodriver	INFO	Listening on 127.0.0.1:55241
+1511500087085	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\yaya\\AppData\\Local\\Temp\\rust_mozprofile.rXHXtMYfp1IU"
+1511500087337	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511500088076	Marionette	INFO	Enabled via --marionette
+[Child 7120] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7120] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511500091210	Marionette	INFO	Listening on port 55247
+1511500092309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511500092359	Marionette	DEBUG	Register listener.js for window 4294967297
+1511500092383	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511500092582	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511500092582	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511500092901	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511500096284	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1511500096289	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1511500096290	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1511500098982	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/"
+1511500168399	Marionette	INFO	New connections will no longer be accepted
+[Child 10720] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 464
+1511500270126	geckodriver	INFO	geckodriver 0.19.1
+1511500270134	geckodriver	INFO	Listening on 127.0.0.1:55458
+1511500272227	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\yaya\\AppData\\Local\\Temp\\rust_mozprofile.efNphNJpe42J"
+1511500272472	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511500273233	Marionette	INFO	Enabled via --marionette
+1511500276744	Marionette	INFO	Listening on port 55464
+1511500277473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511500277566	Marionette	DEBUG	Register listener.js for window 4294967297
+1511500277618	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511500277708	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511500277708	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511500278021	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511500280596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1511500280606	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967342"
+1511500280607	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1511500283257	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/"
+[Child 6428] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6428] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8504] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511500516764	Marionette	INFO	Enabled via --marionette
+1511500520473	Marionette	INFO	Listening on port 55848
+1511500520962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511500521011	Marionette	DEBUG	Register listener.js for window 4294967297
+1511500521035	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511500521394	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511500521395	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511500521899	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511500622945	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1511500622946	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1511500624078	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967343"
+[Child 1388] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4240] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4240] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rtup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511500836635	Marionette	INFO	Enabled via --marionette
+1511500840228	Marionette	INFO	Listening on port 56120
+1511500840766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511500840829	Marionette	DEBUG	Register listener.js for window 6442450945
+1511500840851	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511500840951	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511500840951	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511500841374	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511500883235	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/"
+[Parent 1596] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10064] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10064] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511500998308	geckodriver	INFO	geckodriver 0.19.1
+1511500998317	geckodriver	INFO	Listening on 127.0.0.1:56333
+1511501000428	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\yaya\\AppData\\Local\\Temp\\rust_mozprofile.qYnxBPpd0FYF"
+1511501000675	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511501001522	Marionette	INFO	Enabled via --marionette
+1511501005190	Marionette	INFO	Listening on port 56339
+1511501005670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511501005731	Marionette	DEBUG	Register listener.js for window 6442450945
+1511501005753	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511501006028	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511501006028	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511501006608	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511501014883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450979"
+1511501014885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450981"
+1511501014963	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450983"
+1511501017563	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/"
+[Child 2768] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2768] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5056] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5056] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511501097023	Marionette	INFO	Enabled via --marionette
+1511501100338	Marionette	INFO	Listening on port 56541
+1511501101213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511501101276	Marionette	DEBUG	Register listener.js for window 4294967297
+1511501101295	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511501101434	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511501101434	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511501101908	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511501122652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1511501122653	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1511501122654	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967343"
+1511501124975	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/"
+[Child 10396] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511501525891	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1511501525895	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511501359989	Marionette	INFO	Enabled via --marionette
+1511501363249	Marionette	INFO	Listening on port 56800
+1511501363955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511501364018	Marionette	DEBUG	Register listener.js for window 4294967297
+1511501364067	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511501364316	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511501364316	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511501364834	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511501369806	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1511501369837	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1511501370071	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1511501372187	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/"
+[Parent 9996] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8580] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8580] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2860] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2860] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8296] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rce://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511501438000	Marionette	INFO	Enabled via --marionette
+[Child 8012] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8012] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511501441197	Marionette	INFO	Listening on port 56999
+1511501441912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511501441962	Marionette	DEBUG	Register listener.js for window 4294967297
+1511501441979	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511501442212	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511501442212	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511501444200	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511501448859	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1511501448860	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1511501448862	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1511501451630	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/"
+1511501485328	geckodriver	INFO	geckodriver 0.19.1
+1511501485338	geckodriver	INFO	Listening on 127.0.0.1:57167
+1511501487413	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\yaya\\AppData\\Local\\Temp\\rust_mozprofile.JsNRd1MUnHgo"
+1511501487658	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511501488380	Marionette	INFO	Enabled via --marionette
+[Child 13296] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13296] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511501492538	Marionette	INFO	Listening on port 57173
+1511501492644	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511501492692	Marionette	DEBUG	Register listener.js for window 6442450945
+1511501492754	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511501493030	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511501493030	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511501493493	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511501497815	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450978"
+1511501497818	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450980"
+1511501498113	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450984"
+1511501500674	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/"
+[Child 8544] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8544] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5688] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5688] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511501545999	geckodriver	INFO	geckodriver 0.19.1
+1511501546007	geckodriver	INFO	Listening on 127.0.0.1:57393
+1511501548106	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\yaya\\AppData\\Local\\Temp\\rust_mozprofile.2aBTMmIS6TWe"
+1511501548359	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511501549101	Marionette	INFO	Enabled via --marionette
+1511501552963	Marionette	INFO	Listening on port 57399
+1511501553333	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511501553385	Marionette	DEBUG	Register listener.js for window 6442450945
+1511501553405	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511501553496	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511501553496	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511501554092	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511501560567	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450979"
+1511501560570	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450981"
+1511501560571	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450983"
+1511501655332	geckodriver	INFO	geckodriver 0.19.1
+1511501655342	geckodriver	INFO	Listening on 127.0.0.1:57590
+1511501657422	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\yaya\\AppData\\Local\\Temp\\rust_mozprofile.fwy7CXjaVA3g"
+1511501657666	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511501658534	Marionette	INFO	Enabled via --marionette
+1511501662236	Marionette	INFO	Listening on port 57597
+1511501662648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511501662705	Marionette	DEBUG	Register listener.js for window 6442450945
+1511501662729	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511501675157	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511501675158	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511501682352	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript error: http://apps.bdimg.com/libs/jquery-lazyload/1.9.5/jquery.lazyload.js, line 242: ReferenceError: jQuery is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://jandan.net/, line 615: ReferenceError: $ is not defined
+JavaScript error: http://jandan.net/, line 1413: ReferenceError: $ is not defined
+1511501714305	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://cdn.jandan.net/static/min/201711241005018585d67e2dee1fdd7ac644ab6b1cd173.js, line 1: ReferenceError: $ is not defined
+1511501726919	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450993"
+1511501726922	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450995"
+1511501726923	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450997"
+1511501729106	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+[Child 7824] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10296] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10296] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1-3, line 64: unreachable code after return statement
+1511501818249	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511501818251	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1511501818252	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511501818254	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1511501818255	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511501818257	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1511501818257	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1511501818258	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511501818489	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/page/1"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511501819051	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/page/2"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511501819083	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1511501819083	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1511501819084	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1511501819084	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1511501819084	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1511501819084	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1511501819085	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511501820124	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967362"
+1511501823112	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/page/2"
+1511501867358	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1511501867390	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ent returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511501847842	Marionette	INFO	Enabled via --marionette
+[Child 12788] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12788] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511501851228	Marionette	INFO	Listening on port 58040
+1511501852074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511501852121	Marionette	DEBUG	Register listener.js for window 4294967297
+1511501852140	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511501852228	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511501852229	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511501852646	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511501856596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1511501856720	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1511501856893	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1511501867357	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1511501867486	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/"
+1511501936619	Marionette	INFO	New connections will no longer be accepted
+1511501977586	geckodriver	INFO	geckodriver 0.19.1
+1511501977595	geckodriver	INFO	Listening on 127.0.0.1:58396
+1511501979737	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\yaya\\AppData\\Local\\Temp\\rust_mozprofile.X6AYrA6azSBe"
+1511501979989	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511501980836	Marionette	INFO	Enabled via --marionette
+[Child 7096] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7096] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511501984217	Marionette	INFO	Listening on port 58404
+1511501984972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511501985024	Marionette	DEBUG	Register listener.js for window 6442450945
+1511501985052	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511501989712	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511501989712	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511502004004	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1511502004541	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/pic"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511502077775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450988"
+1511502107142	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450996"
+1511502215847	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/pic"
+1511502229327	Marionette	INFO	New connections will no longer be accepted
+[Child 3104] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1511502391798	geckodriver	INFO	geckodriver 0.19.1
+1511502391806	geckodriver	INFO	Listening on 127.0.0.1:58718
+1511502393911	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\yaya\\AppData\\Local\\Temp\\rust_mozprofile.ZsABHxtsAf7a"
+1511502394150	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511502394845	Marionette	INFO	Enabled via --marionette
+[Parent 10552] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511502398185	Marionette	INFO	Listening on port 58724
+1511502399158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511502399229	Marionette	DEBUG	Register listener.js for window 4294967297
+1511502399258	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511502402212	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511502402213	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511502402755	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/pic"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511502407162	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1511502407165	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967350"
+1511502407175	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1511502409631	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/pic"
+1511502433372	Marionette	INFO	New connections will no longer be accepted
+1511502693956	geckodriver	INFO	geckodriver 0.19.1
+1511502693964	geckodriver	INFO	Listening on 127.0.0.1:58943
+1511502696050	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\yaya\\AppData\\Local\\Temp\\rust_mozprofile.LIsq2H0lsAAo"
+1511502696302	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511502697075	Marionette	INFO	Enabled via --marionette
+[Child 12676] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12676] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511502700611	Marionette	INFO	Listening on port 58949
+1511502701298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511502701362	Marionette	DEBUG	Register listener.js for window 6442450945
+1511502701393	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511502714376	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511502714376	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511502720741	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511502763255	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1511502774541	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1511502789530	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450990"
+1511502805049	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/pic"
+1511502904427	geckodriver	INFO	geckodriver 0.19.1
+1511502904436	geckodriver	INFO	Listening on 127.0.0.1:59109
+1511502906508	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\yaya\\AppData\\Local\\Temp\\rust_mozprofile.jODKn1N4zVWU"
+1511502906771	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511502907564	Marionette	INFO	Enabled via --marionette
+1511502911850	Marionette	INFO	Listening on port 59115
+1511502912238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511502912303	Marionette	DEBUG	Register listener.js for window 4294967297
+1511502912335	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511502913568	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511502913568	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1511502914098	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jandan.net/pic"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-462921-3, line 64: unreachable code after return statement
+1511502918624	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967356"
+1511502918628	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967358"
+1511502918839	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967360"
+1511502920834	Marionette	DEBUG	Received DOM event "pageshow" for "http://jandan.net/pic"
+1511502942140	Marionette	INFO	New connections will no longer be accepted
